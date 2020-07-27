@@ -1,0 +1,6 @@
+global:
+  css:
+    theme:
+      assets/main.css: {}
+  js:
+    assets/main.js: {}

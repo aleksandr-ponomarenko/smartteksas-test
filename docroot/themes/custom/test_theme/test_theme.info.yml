@@ -1,0 +1,8 @@
+name: Test theme
+type: theme
+description: 'Theme for test task.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+base theme: bartik
+libraries:
+  - 'test_theme/global'
